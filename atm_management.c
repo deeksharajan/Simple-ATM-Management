@@ -20,7 +20,7 @@ void withdrawl(){
 	}
 	else{
 	balance-=amt;
-	printf("Amount is Deposited Successfully.\n");
+	printf("Amount is Withdrawn Successfully.\n");
 	printf("Your current balance: %d",balance);
     }
 }
